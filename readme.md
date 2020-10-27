@@ -1,1 +1,1 @@
-This repository contains all code used during webscraping activities.
+This repository contains all Python code used during webscraping activities.
