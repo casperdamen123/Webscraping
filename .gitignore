@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-Twitter/*
 .vscode/settings.json
-*/tokens.json
+*/tokens_twitter.json
+*/login_credentials_twitter.json
